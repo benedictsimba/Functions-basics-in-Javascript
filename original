@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<title></title>
+
+<head>
+    <script>
+        function hello() {
+            document.write("Hellow world")
+        }
+    </script>
+</head>
+
+<body>
+    <p>An example of a function working anywhere in the code</p>
+    <form>
+        <input type="button" name="HELLOW" value="HELLOW" onclick="hello()" </form>
+</body>
+
+</html>
